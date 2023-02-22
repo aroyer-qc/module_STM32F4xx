@@ -1,2 +1,2 @@
-# module_stm32f4xx
+# module_STM32F4xx
 Library from ST for STM32F4xx CPU
